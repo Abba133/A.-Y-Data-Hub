@@ -1,0 +1,16 @@
+lib/
+ ├── main.dart
+ ├── screens/
+ │    ├── home_screen.dart
+ │    ├── login_screen.dart
+ │    ├── register_screen.dart
+ │    ├── buy_data_screen.dart
+ │    └── wallet_screen.dart
+ ├── services/
+ │    ├── api_service.dart
+ │    └── auth_service.dart
+ ├── models/
+ │    ├── user_model.dart
+ │    └── transaction_model.dart
+ └── widgets/
+      └── custom_button.dart
